@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Microbiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Virology"
+    ]
+  ],
+  "legacy_uid": "fa98ee47-7646-ca6e-2535-c6c419a32e39",
+  "instructors": {
+    "content": [
+      "a528a19f-2838-575b-fa8c-cb4a4a613086"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "61632e35-a3f9-f70f-1a34-a2b14ebcd75a",
+    "website": "7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021"
+  },
+  "course_title": "COVID-19, SARS-CoV-2, and the Pandemic",
+  "hide_download": true,
+  "course_description": "During Fall 2021, all MIT students and the general public are welcome to join Professors Richard Young and Facundo Batista as they discuss the science of the COVID-19 pandemic. The livestream of the lectures is available to the public, but only registered students are able to ask questions during the Q&A.\n\nLectures will be given by leading experts on the fundamentals of coronavirus and host cell biology, immunology, epidemiology, clinical disease, and vaccine and therapeutic development. Guest faculty include Amy Barczak, Dan Barouch, Arup Chakraborty, Victoria Clark, Shane Crotty, Anthony Fauci, Britt Glaunsinger, Salim Karim, Shiv Pillai, Rochelle Walensky, Bruce Walker, Laura Walker, and Andrew Ward.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.00",
+  "course_image_thumbnail": {
+    "content": "8e833775-a8b6-ebd1-3fc3-ff87d9f51504",
+    "website": "7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021"
+  },
+  "learning_resource_types": [],
+  "site_uid": "f6a51930-017d-4d98-a3a0-3a2cbfeec08e",
+  "site_short_id": "7.00-fall-2021",
+  "title": "Course Metadata"
+}
